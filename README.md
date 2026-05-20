@@ -36,3 +36,59 @@ Current Focus:
   - Building scalable web applications
   - Solving DSA problems
   - Exploring LLMs & AI Systems
+🌐 Connect With Me
+<div align="center">
+
+
+
+
+
+
+
+
+</div>
+💻 Tech Stack
+<div align="center">
+Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,sql" />
+Frontend & Backend
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind" />
+Database & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,figma" />
+AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /> </div>
+🧠 Competitive Programming
+<div align="center"> <a href="https://leetcode.com/u/kYsBQ7oWpu/"> <img height="170" src="https://leetcard.jacoblin.cool/kYsBQ7oWpu?theme=dark&font=Nunito&ext=contest" /> </a> </div>
+📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nancypoonia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancypoonia&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" /> </div>
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=nancypoonia&theme=tokyonight&hide_border=true&border_radius=15" /> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nancypoonia&theme=tokyonight&no-frame=true&margin-w=15&row=1" /> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nancypoonia&theme=tokyo-night&hide_border=true&area=true" width="95%" /> </div>
+🚀 Featured Projects
+<div align="center">
+Project	Description	Tech
+🔍 Deepfake Detection Model	AI-powered deepfake detection using ResNeXt + LSTM	TensorFlow, Python
+🌌 3D Reconstruction Pipeline	Single-image to 3D point cloud generation	PyTorch, OpenCV
+🛡️ Arista Safety App	Women’s safety app with SOS & live tracking	Kotlin, Firebase
+📦 InventoryPro	MERN inventory management system	React, Node.js, MongoDB
+</div>
+🧩 Current Interests
+• Full-Stack Engineering
+• AI-Powered Systems
+• Scalable Backend Architecture
+• System Design
+• Competitive Programming
+• LLM Applications
+💡 Developer Quote
+<div align="center">
+“First, solve the problem. Then, write the clean code.”
+</div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=nancypoonia&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+
+<br/><br/>
+
+⭐ If you like my work, consider starring my repositories!
+</div> ```
